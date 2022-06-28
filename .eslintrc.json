@@ -30,7 +30,10 @@
     "class-methods-use-this": "off",
 
     // Seulement si c'est un projet React
-    "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
+    "react/jsx-filename-extension": [
+      1,
+      { "extensions": [".js", ".jsx", ".ts", ".tsx"] }
+    ],
     "react/jsx-one-expression-per-line": "off"
   }
 }
