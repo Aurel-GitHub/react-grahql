@@ -9,3 +9,4 @@ root.render(
     <App />
   </React.StrictMode>
 )
+//  todo  architecture - https://www.youtube.com/watch?v=XEO3mFvrDx0&t=10s
